@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fafa0b04a66af4888bf4e0a3e063bf42
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DSEG7 Modern
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 603cb7e01f4944dd28cffdd1e1af4b52, type: 3}
+  - {fileID: 12800000, guid: 0080a13ebbae34cd7aed91c1d1633a3b, type: 3}
+  - {fileID: 12800000, guid: d28174166d381499aac09b1e17bddb9b, type: 3}
+  - {fileID: 12800000, guid: 179af39e54e294c37b12da12fb5ff7a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
