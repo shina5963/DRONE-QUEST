@@ -14,9 +14,6 @@
 struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
 struct WheelCollider_t4E35407C7AFEFA3DB30E9FFE3C38C9A5C5933481;
 
-IL2CPP_EXTERN_C const RuntimeMethod* WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3_RuntimeMethod_var;
 
 
 IL2CPP_EXTERN_C_BEGIN
@@ -129,13 +126,6 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 #endif
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8 (WheelCollider_t4E35407C7AFEFA3DB30E9FFE3C38C9A5C5933481* __this, float ___0_value, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	ProfilerMethodSentry _profilerMethodSentry(WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8_RuntimeMethod_var);
 	typedef void (*WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8_ftn) (WheelCollider_t4E35407C7AFEFA3DB30E9FFE3C38C9A5C5933481*, float);
 	static WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
@@ -144,13 +134,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WheelCollider_set_motorTorque_m4958AAF7D
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3 (WheelCollider_t4E35407C7AFEFA3DB30E9FFE3C38C9A5C5933481* __this, float ___0_value, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	ProfilerMethodSentry _profilerMethodSentry(WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3_RuntimeMethod_var);
 	typedef void (*WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3_ftn) (WheelCollider_t4E35407C7AFEFA3DB30E9FFE3C38C9A5C5933481*, float);
 	static WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
@@ -159,13 +142,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WheelCollider_set_steerAngle_m7BF83B27D8
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890 (WheelCollider_t4E35407C7AFEFA3DB30E9FFE3C38C9A5C5933481* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___0_pos, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974* ___1_quat, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	ProfilerMethodSentry _profilerMethodSentry(WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890_RuntimeMethod_var);
 	typedef void (*WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890_ftn) (WheelCollider_t4E35407C7AFEFA3DB30E9FFE3C38C9A5C5933481*, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974*);
 	static WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)

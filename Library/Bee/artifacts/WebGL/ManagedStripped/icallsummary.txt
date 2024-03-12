@@ -46,7 +46,6 @@ Unity.Profiling.LowLevel.Unsafe.ProfilerUnsafeUtility::SetMarkerMetadata__Unmana
 Unity.Profiling.LowLevel.Unsafe.ProfilerUnsafeUtility::CreateCounterValue__Unmanaged
 Unity.Profiling.ProfilerRecorder::GetRunning_Injected
 Unity.Profiling.ProfilerRecorder::GetValid_Injected
-Unity.Profiling.ProfilerRecorder::CopyTo_Pointer_Injected
 Unity.Profiling.ProfilerRecorder::GetCount_Injected
 Unity.Profiling.ProfilerRecorder::GetLastValue_Injected
 Unity.Profiling.ProfilerRecorder::Control_Injected
@@ -397,16 +396,12 @@ UnityEngine.GUILayoutUtility::Internal_MoveWindow_Injected
 UnityEngine.GUIStyle::IsTooltipActive
 UnityEngine.GUIStyle::get_stretchHeight
 UnityEngine.GUIStyle::get_stretchWidth
-UnityEngine.GUIStyle::get_wordWrap
 UnityEngine.GUIStyle::GetRectOffsetPtr
 UnityEngine.GUIStyle::GetStyleStatePtr
 UnityEngine.GUIStyle::Internal_Create
-UnityEngine.GUIStyle::Internal_CalcHeight
 UnityEngine.GUIStyle::get_fixedHeight
 UnityEngine.GUIStyle::get_fixedWidth
 UnityEngine.GUIStyle::get_rawName
-UnityEngine.GUIStyle::Internal_CalcMinMaxWidth_Injected
-UnityEngine.GUIStyle::Internal_CalcSizeWithConstraints_Injected
 UnityEngine.GUIStyle::Internal_Destroy
 UnityEngine.GUIStyle::Internal_Draw2_Injected
 UnityEngine.GUIStyle::Internal_Draw_Injected
@@ -416,7 +411,6 @@ UnityEngine.GUIStyle::set_alignment
 UnityEngine.GUIStyle::set_fontSize
 UnityEngine.GUIStyle::set_rawName
 UnityEngine.GUIStyle::set_stretchHeight
-UnityEngine.GUIStyle::get_imagePosition
 UnityEngine.GUIStyleState::Init
 UnityEngine.GUIStyleState::Cleanup
 UnityEngine.GUIStyleState::set_textColor_Injected
@@ -607,7 +601,6 @@ UnityEngine.Mesh::SetIndicesNativeArrayImpl
 UnityEngine.Mesh::SetVertexBufferParamsFromArray
 UnityEngine.Mesh::UploadMeshDataImpl
 UnityEngine.Mesh::set_indexFormat
-UnityEngine.Mesh::get_indexFormat
 UnityEngine.MeshFilter::get_mesh
 UnityEngine.MonoBehaviour::Internal_IsInvokingAll
 UnityEngine.MonoBehaviour::IsInvoking
@@ -680,8 +673,6 @@ UnityEngine.PlayerConnectionInternal::RegisterInternal
 UnityEngine.PlayerConnectionInternal::SendMessage
 UnityEngine.PlayerConnectionInternal::UnregisterInternal
 UnityEngine.Profiling.Profiler::GetRuntimeMemorySizeLong
-UnityEngine.Profiling.Profiler::BeginSampleImpl
-UnityEngine.Profiling.Profiler::EndSample
 UnityEngine.PropertyNameUtils::PropertyNameFromString_Injected
 UnityEngine.QualitySettings::get_billboardsFaceCameraPosition
 UnityEngine.QualitySettings::get_antiAliasing

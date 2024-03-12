@@ -15,8 +15,6 @@ struct Attribute_tFDA8EFEFB0711976D22474794576DAF28F7440AA;
 struct EmbeddedAttribute_t890FE9259A94DE9C269ED90556991B9824F64B7E;
 struct IsReadOnlyAttribute_t4CAAA380139C5A2FA268DAB2C2D3357F9C90AD23;
 
-IL2CPP_EXTERN_C const RuntimeMethod* EmbeddedAttribute__ctor_mBE4821E7A76BDB478C0DE0388B54D77EF020B536_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* IsReadOnlyAttribute__ctor_m21F7AB503DC196A20A50CADA5CBE654735E60EFC_RuntimeMethod_var;
 
 
 IL2CPP_EXTERN_C_BEGIN
@@ -83,13 +81,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Attribute__ctor_m79ED1BF1EE36D1E417BA89A
 #endif
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmbeddedAttribute__ctor_mBE4821E7A76BDB478C0DE0388B54D77EF020B536 (EmbeddedAttribute_t890FE9259A94DE9C269ED90556991B9824F64B7E* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&EmbeddedAttribute__ctor_mBE4821E7A76BDB478C0DE0388B54D77EF020B536_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	ProfilerMethodSentry _profilerMethodSentry(EmbeddedAttribute__ctor_mBE4821E7A76BDB478C0DE0388B54D77EF020B536_RuntimeMethod_var);
 	{
 		Attribute__ctor_m79ED1BF1EE36D1E417BA89A0D9F91F8AAD8D19E2(__this, NULL);
 		return;
@@ -105,13 +96,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmbeddedAttribute__ctor_mBE4821E7A76BDB4
 #endif
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IsReadOnlyAttribute__ctor_m21F7AB503DC196A20A50CADA5CBE654735E60EFC (IsReadOnlyAttribute_t4CAAA380139C5A2FA268DAB2C2D3357F9C90AD23* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IsReadOnlyAttribute__ctor_m21F7AB503DC196A20A50CADA5CBE654735E60EFC_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	ProfilerMethodSentry _profilerMethodSentry(IsReadOnlyAttribute__ctor_m21F7AB503DC196A20A50CADA5CBE654735E60EFC_RuntimeMethod_var);
 	{
 		Attribute__ctor_m79ED1BF1EE36D1E417BA89A0D9F91F8AAD8D19E2(__this, NULL);
 		return;
