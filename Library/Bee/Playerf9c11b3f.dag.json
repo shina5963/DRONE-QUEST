@@ -533,19 +533,7 @@
         525,
         526,
         527,
-        528,
-        529,
-        530,
-        531,
-        532,
-        533,
-        534,
-        535,
-        536,
-        537,
-        538,
-        539,
-        540
+        528
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 0
@@ -25054,7 +25042,7 @@
     {
       "Annotation": "PreprocessJS docs/Build/docs.loader.js",
       "DisplayName": "PreprocessJS docs.loader",
-      "Action": "cd /d \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools\" && \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/node/node.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Preprocess.js\"  \"locals.cwd='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools'\"  \"locals.inputPath='UnityLoader/UnityLoader.js'\"  \"locals.outputPath='C\\x3a/Users/shina/Box/\\u5b66\\u5916/GitHub/DRONE\\x2dQUEST/docs/Build/docs.loader.js'\"  \"locals.webglIncludes='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/WebGLIncludes'\"  \"locals.minifyOutput=true\"  \"COMPANY_NAME='DefaultCompany'\" \"PRODUCT_NAME='DroneQuest'\" \"PRODUCT_VERSION='1.0'\" \"WIDTH=960\" \"HEIGHT=600\" \"SPLASH_SCREEN_STYLE='Dark'\" \"BACKGROUND_COLOR='\\x231F1F20'\" \"DATA_FILENAME='docs.data'\" \"FRAMEWORK_FILENAME='docs.framework.js'\" \"WORKER_FILENAME=''\" \"CODE_FILENAME='docs.wasm'\" \"MEMORY_FILENAME=''\" \"SYMBOLS_FILENAME=''\" \"BACKGROUND_FILENAME=''\" \"USE_WASM=true\" \"USE_THREADS=false\" \"USE_WEBGL_1_0=false\" \"USE_WEBGL_2_0=true\" \"WEBGL_POWER_PREFERENCE=2\" \"USE_DATA_CACHING=true\" \"DECOMPRESSION_FALLBACK=''\" \"DEVELOPMENT_PLAYER=false\" \"UNITY_VERSION='2022.3.12f1'\" \"SHOW_DIAGNOSTICS=false\" \"CLOSE_ON_QUIT=false\" \"LOADER_FILENAME='docs.loader.js'\"",
+      "Action": "cd /d \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools\" && \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/node/node.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Preprocess.js\"  \"locals.cwd='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools'\"  \"locals.inputPath='UnityLoader/UnityLoader.js'\"  \"locals.outputPath='C\\x3a/Users/shina/Box/\\u5b66\\u5916/GitHub/DRONE\\x2dQUEST/docs/Build/docs.loader.js'\"  \"locals.webglIncludes='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/WebGLIncludes'\"  \"locals.minifyOutput=true\"  \"COMPANY_NAME='DefaultCompany'\" \"PRODUCT_NAME='DroneQuest'\" \"PRODUCT_VERSION='1.0'\" \"WIDTH=960\" \"HEIGHT=600\" \"SPLASH_SCREEN_STYLE='Dark'\" \"BACKGROUND_COLOR='\\x231F1F20'\" \"DATA_FILENAME='docs.data'\" \"FRAMEWORK_FILENAME='docs.framework.js'\" \"WORKER_FILENAME=''\" \"CODE_FILENAME='docs.wasm'\" \"MEMORY_FILENAME=''\" \"SYMBOLS_FILENAME=''\" \"BACKGROUND_FILENAME=''\" \"USE_WASM=true\" \"USE_THREADS=false\" \"USE_WEBGL_1_0=false\" \"USE_WEBGL_2_0=true\" \"WEBGL_POWER_PREFERENCE=2\" \"USE_DATA_CACHING=true\" \"DECOMPRESSION_FALLBACK=''\" \"DEVELOPMENT_PLAYER=false\" \"UNITY_VERSION='2022.3.12f1'\" \"SHOW_DIAGNOSTICS=false\" \"CLOSE_ON_QUIT=false\" \"PRODUCT_DESCRIPTION=''\" \"LOADER_FILENAME='docs.loader.js'\"",
       "Inputs": [
         "UnityLoader/UnityLoader.js"
       ],
@@ -25068,9 +25056,9 @@
     {
       "Annotation": "PreprocessJS docs/index.html",
       "DisplayName": "PreprocessJS index",
-      "Action": "cd /d \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools\" && \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/node/node.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Preprocess.js\"  \"locals.cwd='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools'\"  \"locals.inputPath='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/index.html'\"  \"locals.outputPath='C\\x3a/Users/shina/Box/\\u5b66\\u5916/GitHub/DRONE\\x2dQUEST/docs/index.html'\"  \"locals.webglIncludes='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/WebGLIncludes'\"  \"locals.minifyOutput=false\"  \"COMPANY_NAME='DefaultCompany'\" \"PRODUCT_NAME='DroneQuest'\" \"PRODUCT_VERSION='1.0'\" \"WIDTH=960\" \"HEIGHT=600\" \"SPLASH_SCREEN_STYLE='Dark'\" \"BACKGROUND_COLOR='\\x231F1F20'\" \"DATA_FILENAME='docs.data'\" \"FRAMEWORK_FILENAME='docs.framework.js'\" \"WORKER_FILENAME=''\" \"CODE_FILENAME='docs.wasm'\" \"MEMORY_FILENAME=''\" \"SYMBOLS_FILENAME=''\" \"BACKGROUND_FILENAME=''\" \"USE_WASM=true\" \"USE_THREADS=false\" \"USE_WEBGL_1_0=false\" \"USE_WEBGL_2_0=true\" \"WEBGL_POWER_PREFERENCE=2\" \"USE_DATA_CACHING=true\" \"DECOMPRESSION_FALLBACK=''\" \"DEVELOPMENT_PLAYER=false\" \"UNITY_VERSION='2022.3.12f1'\" \"SHOW_DIAGNOSTICS=false\" \"CLOSE_ON_QUIT=false\" \"LOADER_FILENAME='docs.loader.js'\"",
+      "Action": "cd /d \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools\" && \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/node/node.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Preprocess.js\"  \"locals.cwd='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools'\"  \"locals.inputPath='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Minimal/index.html'\"  \"locals.outputPath='C\\x3a/Users/shina/Box/\\u5b66\\u5916/GitHub/DRONE\\x2dQUEST/docs/index.html'\"  \"locals.webglIncludes='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/WebGLIncludes'\"  \"locals.minifyOutput=false\"  \"COMPANY_NAME='DefaultCompany'\" \"PRODUCT_NAME='DroneQuest'\" \"PRODUCT_VERSION='1.0'\" \"WIDTH=960\" \"HEIGHT=600\" \"SPLASH_SCREEN_STYLE='Dark'\" \"BACKGROUND_COLOR='\\x231F1F20'\" \"DATA_FILENAME='docs.data'\" \"FRAMEWORK_FILENAME='docs.framework.js'\" \"WORKER_FILENAME=''\" \"CODE_FILENAME='docs.wasm'\" \"MEMORY_FILENAME=''\" \"SYMBOLS_FILENAME=''\" \"BACKGROUND_FILENAME=''\" \"USE_WASM=true\" \"USE_THREADS=false\" \"USE_WEBGL_1_0=false\" \"USE_WEBGL_2_0=true\" \"WEBGL_POWER_PREFERENCE=2\" \"USE_DATA_CACHING=true\" \"DECOMPRESSION_FALLBACK=''\" \"DEVELOPMENT_PLAYER=false\" \"UNITY_VERSION='2022.3.12f1'\" \"SHOW_DIAGNOSTICS=false\" \"CLOSE_ON_QUIT=false\" \"PRODUCT_DESCRIPTION=''\" \"LOADER_FILENAME='docs.loader.js'\"",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/index.html"
+        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Minimal/index.html"
       ],
       "Outputs": [
         "docs/index.html"
@@ -25078,152 +25066,6 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 527
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/favicon.ico",
-      "DisplayName": "Copying favicon.ico",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/favicon.ico"
-      ],
-      "Outputs": [
-        "docs/TemplateData/favicon.ico"
-      ],
-      "DebugActionIndex": 528
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/fullscreen-button.png",
-      "DisplayName": "Copying fullscreen-button.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/fullscreen-button.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/fullscreen-button.png"
-      ],
-      "DebugActionIndex": 529
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/MemoryProfiler.png",
-      "DisplayName": "Copying MemoryProfiler.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/MemoryProfiler.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/MemoryProfiler.png"
-      ],
-      "DebugActionIndex": 530
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/progress-bar-empty-dark.png",
-      "DisplayName": "Copying progress-bar-empty-dark.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/progress-bar-empty-dark.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/progress-bar-empty-dark.png"
-      ],
-      "DebugActionIndex": 531
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/progress-bar-empty-light.png",
-      "DisplayName": "Copying progress-bar-empty-light.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/progress-bar-empty-light.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/progress-bar-empty-light.png"
-      ],
-      "DebugActionIndex": 532
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/progress-bar-full-dark.png",
-      "DisplayName": "Copying progress-bar-full-dark.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/progress-bar-full-dark.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/progress-bar-full-dark.png"
-      ],
-      "DebugActionIndex": 533
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/progress-bar-full-light.png",
-      "DisplayName": "Copying progress-bar-full-light.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/progress-bar-full-light.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/progress-bar-full-light.png"
-      ],
-      "DebugActionIndex": 534
-    },
-    {
-      "Annotation": "PreprocessJS docs/TemplateData/style.css",
-      "DisplayName": "PreprocessJS style",
-      "Action": "cd /d \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools\" && \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/node/node.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Preprocess.js\"  \"locals.cwd='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools'\"  \"locals.inputPath='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/style.css'\"  \"locals.outputPath='C\\x3a/Users/shina/Box/\\u5b66\\u5916/GitHub/DRONE\\x2dQUEST/docs/TemplateData/style.css'\"  \"locals.webglIncludes='C\\x3a/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/WebGLIncludes'\"  \"locals.minifyOutput=false\"  \"COMPANY_NAME='DefaultCompany'\" \"PRODUCT_NAME='DroneQuest'\" \"PRODUCT_VERSION='1.0'\" \"WIDTH=960\" \"HEIGHT=600\" \"SPLASH_SCREEN_STYLE='Dark'\" \"BACKGROUND_COLOR='\\x231F1F20'\" \"DATA_FILENAME='docs.data'\" \"FRAMEWORK_FILENAME='docs.framework.js'\" \"WORKER_FILENAME=''\" \"CODE_FILENAME='docs.wasm'\" \"MEMORY_FILENAME=''\" \"SYMBOLS_FILENAME=''\" \"BACKGROUND_FILENAME=''\" \"USE_WASM=true\" \"USE_THREADS=false\" \"USE_WEBGL_1_0=false\" \"USE_WEBGL_2_0=true\" \"WEBGL_POWER_PREFERENCE=2\" \"USE_DATA_CACHING=true\" \"DECOMPRESSION_FALLBACK=''\" \"DEVELOPMENT_PLAYER=false\" \"UNITY_VERSION='2022.3.12f1'\" \"SHOW_DIAGNOSTICS=false\" \"CLOSE_ON_QUIT=false\" \"LOADER_FILENAME='docs.loader.js'\"",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/style.css"
-      ],
-      "Outputs": [
-        "docs/TemplateData/style.css"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 535
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/unity-logo-dark.png",
-      "DisplayName": "Copying unity-logo-dark.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/unity-logo-dark.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/unity-logo-dark.png"
-      ],
-      "DebugActionIndex": 536
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/unity-logo-light.png",
-      "DisplayName": "Copying unity-logo-light.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/unity-logo-light.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/unity-logo-light.png"
-      ],
-      "DebugActionIndex": 537
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/webgl-logo.png",
-      "DisplayName": "Copying webgl-logo.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/webgl-logo.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/webgl-logo.png"
-      ],
-      "DebugActionIndex": 538
-    },
-    {
-      "Annotation": "CopyFiles docs/TemplateData/webmemd-icon.png",
-      "DisplayName": "Copying webmemd-icon.png",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default/TemplateData/webmemd-icon.png"
-      ],
-      "Outputs": [
-        "docs/TemplateData/webmemd-icon.png"
-      ],
-      "DebugActionIndex": 539
     },
     {
       "Annotation": "Player",
@@ -25241,22 +25083,10 @@
         522,
         525,
         526,
-        527,
-        528,
-        529,
-        530,
-        531,
-        532,
-        533,
-        534,
-        535,
-        536,
-        537,
-        538,
-        539
+        527
       ],
       "OverwriteOutputs": false,
-      "DebugActionIndex": 540
+      "DebugActionIndex": 528
     }
   ],
   "FileSignatures": [
@@ -25575,7 +25405,7 @@
       "Filter": "*.js"
     },
     {
-      "Path": "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default",
+      "Path": "C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Minimal",
       "Recurse": 1
     },
     {
@@ -25626,7 +25456,7 @@
   ],
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "Player": 540
+          "Player": 528
         }
 ,  "DefaultNodes": [
     0
